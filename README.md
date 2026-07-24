@@ -5,3 +5,6 @@ Atividade 1 Dia 24/07:
 
 Atividade 2 Dia 24/07:
 <img width="1920" height="848" alt="Copy of Surprising Elzing (4)" src="https://github.com/user-attachments/assets/29531055-f519-46ee-afc4-53ce8f7d1bf0" />
+
+Atividade 3 Dia 24/07:
+<img width="1920" height="848" alt="Copy of Surprising Elzing (5)" src="https://github.com/user-attachments/assets/b05060cb-6e69-40da-8150-366f291eefe5" />
