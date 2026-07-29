@@ -12,3 +12,20 @@ void setup() {
   pinMode(ledXOR, OUTPUT);
   pinMode(ledOU, OUTPUT);
   pinMode(ledE, OUTPUT);
+  
+  pinMode(botaoA, INPUT);
+  pinMode(botaoB, INPUT);
+  
+}
+
+void loop() {
+  
+  valA = digitalRead(botaoA);
+  valB = digitalRead(botaoB);
+  
+  
+  digitalWrite(ledXOR, valA ^ valB);
+  digitalWrite(ledOU, valA | valB);
+  digitalWrite(ledE, valA & valB);
+  
+}
