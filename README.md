@@ -21,3 +21,6 @@ Atividade 6 dia 24/07:
 
 Atividade 1 dia 29/07:
 <img width="1920" height="848" alt="Atividade 2 (1)" src="https://github.com/user-attachments/assets/1c85201e-e96a-43b6-a80e-a6e6d90f98ca" />
+
+Atividade 2 dia 29/07:
+<img width="1920" height="848" alt="Atividade 2 (2)" src="https://github.com/user-attachments/assets/5f7ed342-19fe-4378-a0cd-89a3ff6d3a04" />
