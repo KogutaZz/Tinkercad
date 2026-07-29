@@ -15,3 +15,5 @@ Atividade 4 Dia 24/07:
 Atividade 5 Dia 24/07:
 <img width="1920" height="848" alt="Copy of Atividade 1" src="https://github.com/user-attachments/assets/fdef0093-74c6-4276-b3a3-e8df172eb245" />
 
+Atividade 6 dia 24/07:
+<img width="937" height="831" alt="Atividade 2" src="https://github.com/user-attachments/assets/230928a5-b4f6-441f-818e-9e8189f2cc40" />
